@@ -1,0 +1,5 @@
+{
+  "name": "Proyecto 10/12/2025 Gestión del DECE",
+  "description": "Aplicación web progresiva para la gestión de Departamentos de Consejería Estudiantil (DECE), basada en el Modelo de Gestión del DECE (2023) del Ministerio de Educación del Ecuador. Funciona sin conexión y almacena todos los datos localmente.",
+  "requestFramePermissions": []
+}
